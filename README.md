@@ -1,3 +1,3 @@
 # ExamDayDisasterWEBGL
 
-eerste opzet
+eerste opzet gh-pages
